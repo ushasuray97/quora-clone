@@ -1,0 +1,15 @@
+.questions{
+    margin-left: 2rem;
+    margin-top: 7px;
+    width: 8rem;
+    height: 4rem;
+    border-radius: 7px;
+    border: none;
+    /* background: linear-gradient(117.03deg, rgb(141, 207, 238).13%, rgb(246, 146, 146) 100%); */
+    background-color: rgb(185, 43, 39);
+    color:rgb(255, 255, 255);
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(188, 91, 88);
+}

@@ -1,0 +1,47 @@
+.add_ques-div{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+
+}
+.question{
+    width: 10px;
+}
+.button-style{
+    display: flex;
+    justify-content: flex-end;
+    /* width: 2px; */
+    margin-right: 5rem;
+    margin-top: 1rem;
+
+}
+
+.ques-div{
+    margin-top: 6rem;
+    margin-left: 5rem;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: flex-start;
+   
+    flex-wrap: nowrap; */
+    background-color: white;
+    border: #bebdbd solid 1px;
+    border-radius: 10px;
+    width: 69rem;
+    height: 2rem;
+    padding: 10px;
+}
+.input-ques{
+    width: 100%;
+    height: 2rem;
+    border-radius: 10px;
+    background-color: #f5909036;
+    border: none;
+    padding-left: 10px;
+    margin-top: -10px;
+  
+}
+.heading{
+    margin-top: -5px;
+    margin-right: 10px;
+}

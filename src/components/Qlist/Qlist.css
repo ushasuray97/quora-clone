@@ -1,0 +1,51 @@
+.list-card{
+    margin-left: 3rem;
+    margin-top: 6rem;
+    width: 21rem;
+    /* height: fit-content; */
+    height: 28rem;
+    border: #ce0808 solid 1px;
+   
+    background: white;
+    border-radius: 10px;
+    overflow-y: auto;
+   
+    
+}
+.list{
+   display:flex;
+   flex-direction: column;
+   justify-self: baseline;
+   height:fit-content;
+   gap:.5rem;
+   margin-top: 3rem;
+   margin-bottom: 1rem;
+   border-radius: 10px;
+
+   /* border: rgb(139, 139, 139) solid 1px; */
+   
+    
+}
+.sub-tags{
+    height:fit-content;
+    border-radius: 10px;
+    color:#2a14b7;
+    font-weight: 600;
+    margin-top:0px;
+    padding-left:1rem;
+    padding-right: 1rem;
+    cursor: pointer;
+    /* cursor: not-allowed; */
+    /* background-color: rgb(247, 194, 194); */
+  
+}
+.h2-qlist{
+    text-align: center;
+    margin-top:1rem;
+}
+.ptag{
+    height: fit-content;
+    margin-bottom:.5rem;
+    overflow-wrap: break-word;
+    
+}

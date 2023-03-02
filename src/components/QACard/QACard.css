@@ -1,0 +1,47 @@
+.qacard{
+ 
+
+    margin-left: 5rem;
+    margin-top: 6rem;
+    width: 47rem;
+    gap:.5rem;
+    margin-bottom: 6rem;
+    
+}
+.inner-card{
+
+   display:flex;
+   flex-direction: column;
+   justify-self: baseline;
+   /* background-color: rgb(221, 144, 144); */
+   height:fit-content;
+   /* gap:5px; */
+   margin-bottom: 1rem;
+   border-radius: 10px;
+   background-color: white;
+   border: #ce0808 solid 1px;
+
+
+}
+.h2{
+    padding-left:4rem;
+    margin-top:.5rem;
+    margin-bottom:.5rem;
+    height:fit-content;
+    color: #949495;
+}
+.h3{
+    padding-left: 1.5rem;
+    margin-bottom:.5rem;
+    margin-top:.5rem;
+    height:fit-content;
+    overflow-wrap: anywhere;
+}
+.p{
+    padding-left: 1.5rem;
+    padding-right: .5rem;
+    margin-top:.5rem;
+    margin-bottom:.5rem;
+    height:fit-content;
+    overflow-wrap: anywhere;
+}

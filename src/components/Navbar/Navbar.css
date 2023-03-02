@@ -1,0 +1,16 @@
+.navbar1{
+    background:white;
+    height:3rem;
+    width: 100%;
+    display: flex;
+  
+    
+}
+.logo{
+    color:rgb(185, 43, 39);
+    margin-left: 3rem;
+    margin-right:3rem;
+    font-size: 2rem;
+    cursor: pointer;
+}
+

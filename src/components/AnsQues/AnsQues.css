@@ -1,0 +1,44 @@
+.ansques-div{
+    display: flex;
+    flex-direction: column;
+
+}
+.answer-page{
+    display: flex;
+    flex-direction: row;
+}
+.button-style-ans{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 3rem;
+    margin-top: 23rem;
+}
+.selected-ques{
+    margin-left: 10rem;
+    margin-top: 5rem;
+    font-size: xx-large;
+    font-weight: 600;
+    overflow-wrap: anywhere;
+    height: auto;
+    margin-bottom: -5rem;
+    margin-right: 3rem;
+}
+.ans-card{
+    margin-left: 5rem;
+    margin-top: 6rem;
+    width: 47rem;
+    height: 15rem;
+    border: #cecaca solid 1px;
+    background: white;
+    border-radius: 1rem;
+    resize: none;
+    padding-left: 1rem;
+    padding-top: 1rem;
+}
+.ans-card::placeholder{
+    color: #989898e9;
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    font-size:xx-large;
+
+}
